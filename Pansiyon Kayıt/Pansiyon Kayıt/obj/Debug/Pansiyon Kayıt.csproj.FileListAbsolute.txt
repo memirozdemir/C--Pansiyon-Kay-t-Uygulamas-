@@ -1,0 +1,14 @@
+C:\Users\emrem\source\repos\Pansiyon Kayıt\Pansiyon Kayıt\bin\Debug\Pansiyon Kayıt.exe.config
+C:\Users\emrem\source\repos\Pansiyon Kayıt\Pansiyon Kayıt\bin\Debug\Pansiyon Kayıt.exe
+C:\Users\emrem\source\repos\Pansiyon Kayıt\Pansiyon Kayıt\bin\Debug\Pansiyon Kayıt.pdb
+C:\Users\emrem\source\repos\Pansiyon Kayıt\Pansiyon Kayıt\obj\Debug\Pansiyon Kayıt.csproj.AssemblyReference.cache
+C:\Users\emrem\source\repos\Pansiyon Kayıt\Pansiyon Kayıt\obj\Debug\Pansiyon Kayıt.csproj.SuggestedBindingRedirects.cache
+C:\Users\emrem\source\repos\Pansiyon Kayıt\Pansiyon Kayıt\obj\Debug\Pansiyon_Kayıt.FrmKyt.resources
+C:\Users\emrem\source\repos\Pansiyon Kayıt\Pansiyon Kayıt\obj\Debug\Pansiyon_Kayıt.Properties.Resources.resources
+C:\Users\emrem\source\repos\Pansiyon Kayıt\Pansiyon Kayıt\obj\Debug\Pansiyon Kayıt.csproj.GenerateResource.cache
+C:\Users\emrem\source\repos\Pansiyon Kayıt\Pansiyon Kayıt\obj\Debug\Pansiyon Kayıt.csproj.CoreCompileInputs.cache
+C:\Users\emrem\source\repos\Pansiyon Kayıt\Pansiyon Kayıt\obj\Debug\Pansiyon Kayıt.exe
+C:\Users\emrem\source\repos\Pansiyon Kayıt\Pansiyon Kayıt\obj\Debug\Pansiyon Kayıt.pdb
+C:\Users\emrem\source\repos\Pansiyon Kayıt\Pansiyon Kayıt\obj\Debug\Pansiyon_Kayıt.FrmAdmin.resources
+C:\Users\emrem\source\repos\Pansiyon Kayıt\Pansiyon Kayıt\bin\Debug\Database1.mdf
+C:\Users\emrem\source\repos\Pansiyon Kayıt\Pansiyon Kayıt\bin\Debug\Database1_log.ldf
